@@ -1,2 +1,23 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
+body {
+    font-family: Abel, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar {
+    font-family: "Bebas Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navbar {
+    font-size: 20px;
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+.navbar-logo {
+    height: 100%;
+    padding: 0;
+}
