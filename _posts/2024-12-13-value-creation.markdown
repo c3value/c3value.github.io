@@ -8,5 +8,5 @@ alt: image-alt
 project-date: December 2024
 client: Internetmanufaktur
 category: Value Creation
-description: Strategy, Business Development, Sales Optimization 
+description: Strategy, Business Development, Sales Optimization. Together we grow.
 ---

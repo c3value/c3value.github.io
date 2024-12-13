@@ -181,7 +181,6 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
     background: #{{ site.color.primary }};
 }
 
@@ -286,9 +285,9 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #{{ site.color.secondary}};
     font-size: 20px;
-    color: #fff;
+    color: #{{ site.color.secondary }};
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -298,7 +297,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
     background: #fff;
 }
 
