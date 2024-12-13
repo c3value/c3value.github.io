@@ -9,6 +9,11 @@ h1, h2, h3, h4, h5, h6, .navbar {
     font-family: "Bebas Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: #8cd9bd;
+}
+
 .navbar {
     font-size: 20px;
 }
