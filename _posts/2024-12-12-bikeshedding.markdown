@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-12-12
-img: cabin.png
+img: baby.svg
 alt: image-alt
 project-date: December 2024
 client: Internetmanufaktur

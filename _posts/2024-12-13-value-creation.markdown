@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 title: Value Creation
 date: 2024-12-12
-img: game.png
+img: magnifying-glass-dollar.svg
 alt: image-alt
 project-date: December 2024
 client: Internetmanufaktur

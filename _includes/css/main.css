@@ -231,11 +231,11 @@ section.success {
     margin-top: -12px;
     text-align: center;
     font-size: 30px;
-    color: #fff;
+    color: #{{ site.color.secondary }};
 }
 #portfolio .portfolio-item:hover .portfolio-link .caption .caption-content {
     text-decoration: underline;
-    text-decoration-color: #8cd9bd;
+    text-decoration-color: #{{ site.color.secondary }};
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content span {
